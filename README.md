@@ -4,7 +4,7 @@
   <h1>Hey, I'm Bhavyaa 👋</h1>
   <p><b>Computer Science @ UIUC | LLM Enthusiast | Whimsical Engineer</b></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Systems+Programming+(C/C%2B%2B);Multimodal+AI+Agents;Memory+Management+%26+Concurrency;Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Agents;Memory+Management+%26+Concurrency;Full+Stack+Development" alt="Typing SVG" />
 </div>
 
 <!--
